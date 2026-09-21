@@ -5,19 +5,19 @@
 
 ## 功能特色
 
-### 🗺️ Spatial Distribution（空間分布）
+### Spatial Distribution
 - 互動式地圖（Leaflet），以顏色標示地震深度（0–200 km），圓點大小對應地震規模（M4–M7+）
 - 即時統計卡片：事件總數、最大規模、平均深度
 - 可用側邊欄篩選器依「深度」「規模」「日期區間」動態更新地圖
 
-### 📊 Statistical Analysis（統計分析）
-- **Temporal Trends**：按月份呈現各年度（2020 / 2021 / 2022）地震事件數量趨勢
+### Statistical Analysis
+- **Temporal Trends**：按月份呈現各年度（2020, 2021, 2022）地震事件數量趨勢
 - **Magnitude vs Depth**：規模與深度的分布，依年度分色比較
 
 ## 資料篩選器
 
 - **Depth (km)**：0–200 km，可調整範圍滑桿
-- **Magnitude (Mₗ)**：4–8，可調整範圍滑桿
+- **Magnitude (M_L)**：4–8，可調整範圍滑桿
 - **Select Date**：自訂查詢時間區間
 
 ## 資料來源
