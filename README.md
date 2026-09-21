@@ -40,7 +40,7 @@ Autobats Earthquake Catalog（2020–2022/01）
 2. 在 RStudio 開啟 `taiwan_eq.Rproj`
 3. 安裝所需要的packages：
 ```r
-   install.packages(c("shiny", "bslib", "leaflet", "plotly"))
+   install.packages(c("shiny", "bslib", "leaflet", "plotly", "bsicons", "tidyverse", "sf", "leafpop", "RFOC"))
 ```
 4. 開啟 `app.R`，點擊 **Run App**
 
